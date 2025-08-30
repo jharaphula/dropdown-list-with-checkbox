@@ -12,7 +12,10 @@ A dropdown list is a toggleable menu that displays a list of options when activa
 
 # Basic Structure of a Bootstrap Dropdown #
 
-A Bootstrap dropdown consists of two main parts: 1. Trigger Element – Typically a button or link that toggles the dropdown. 2. Dropdown Menu – The list of options that appears when the trigger is clicked.
+A Bootstrap dropdown consists of two main parts: 
+
+1. Trigger Element – Typically a button or link that toggles the dropdown.
+2. Dropdown Menu – The list of options that appears when the trigger is clicked.
 
 Key Attributes: - `data-bs-toggle="dropdown"` – Enables the dropdown functionality. - `aria-expanded="false"` – Indicates the dropdown is initially closed. - `aria-labelledby` – Associates the dropdown menu with its trigger.
 
@@ -58,7 +61,10 @@ Ensure dropdowns are accessible by: - Using proper ARIA attributes (`aria-expand
 
 # Best Practices #
 
-1. Keep It Simple – Avoid excessive nested dropdowns. 2. Use Clear Labels – Ensure options are easily understandable. 3. Optimize for Touch – Make dropdown items large enough for mobile users. 4. Test Across Browsers – Ensure compatibility with Chrome, Firefox, Safari, and Edge.
+1. Keep It Simple – Avoid excessive nested dropdowns.
+2. Use Clear Labels – Ensure options are easily understandable.
+3. Optimize for Touch – Make dropdown items large enough for mobile users.
+4. Test Across Browsers – Ensure compatibility with Chrome, Firefox, Safari, and Edge.
 
 # Conclusion #
 
